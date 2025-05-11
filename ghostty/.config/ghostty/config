@@ -1,1 +1,3 @@
+theme = gruvbox-material
 window-theme = ghostty
+window-decoration = auto

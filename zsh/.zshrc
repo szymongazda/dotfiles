@@ -3,6 +3,7 @@ alias c='clear'
 alias ls='ls -al'
 alias vim='nvim'
 alias tx='tmux'
+alias p='cd ~/projects/'
 
 bindkey -v
 
